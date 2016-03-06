@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Linnut]]></title>
         <description><![CDATA[Linnut]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linnut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 08:23:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 16:40:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linnut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>De DQ Elektrische TV Lift 515 is een inbouw TV lift geschikt voor televisies van 32 t/m 37 inch. De hoogte van de TV lift is 71,5 cm. en heeft een maximale slag van 51,5 cm. De TV lift is zeer eenvoudig in te bouwen en wordt geleverd met afstandsbediening.</p>]]></description>
-            <link>undefined80bcc779-73cc-49ab-8272-30579ce20019/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c40d801-8b3b-4580-96e0-2fe5f91010ea.jpg">]]></description>
+            <link>https://thegrid.ai/linnut/80bcc779-73cc-49ab-8272-30579ce20019/index.html</link>
             <guid isPermaLink="false">80bcc779-73cc-49ab-8272-30579ce20019</guid>
-            <pubDate>Sun, 06 Mar 2016 08:23:23 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 16:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
